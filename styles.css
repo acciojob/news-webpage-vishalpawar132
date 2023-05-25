@@ -11,7 +11,7 @@ body {
   padding: 10px;
   }
   
-  .main-article{
+  .hero-section {
   vertical-align:top;
   display:inline-block;
   width:40%;
@@ -21,7 +21,7 @@ body {
   border-radius:20px;
   }
   
-  .latest-news{
+  .latest-news-section {
   vertical-align:top;
   background-color: white;
   display:inline-block;
@@ -30,7 +30,7 @@ body {
   border-radius:20px;
   }
   
-  .pictorial-news{
+  .pictorial-news-section {
   vertical-align:top;
   display:inline-block;
   background-color: white;
@@ -45,6 +45,6 @@ body {
   text-align:center;
   margin-top:10px;
   }
-  .pictorial-news img{
+  .pictorial-news-section img{
   margin-top:10px;
   }
